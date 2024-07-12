@@ -6,7 +6,7 @@
 - 👋 Username is @titanventura since I would like to go on a venture of Titan (A Moon of Saturn)
 - 👀 I’m interested in Software Development - Python, Django, Docker, React JS, Java, Spring Boot, TDD, PostgreSQL, Golang
 - 💞️ I’m looking to collaborate on awesome projects (Feel free to ping me if you are working alone !)
-- 🌐 Have a look at my portfolio - [click here](https://titanventura.github.io/portfolio/)
+- 🌐 Have a look at my portfolio - [click here](https://titanventura.github.io)
 - 📫 You can reach me at - [Mail](mailto:aswath7862001@gmail.com) | [Linkedin](https://linkedin.com/in/aswath-s)
 
 <h3 align="left">Languages and Tools:</h3>
